@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VectorApp/1.0.0": {
+        "dependencies": {
+          "VectorClass": "1.0.0"
+        },
+        "runtime": {
+          "VectorApp.dll": {}
+        }
+      },
+      "VectorClass/1.0.0": {
+        "runtime": {
+          "VectorClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VectorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VectorClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

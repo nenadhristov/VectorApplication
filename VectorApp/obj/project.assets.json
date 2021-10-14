@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VectorClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VectorClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VectorClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VectorClass/1.0.0": {
+      "type": "project",
+      "path": "../VectorClass/VectorClass.csproj",
+      "msbuildProject": "../VectorClass/VectorClass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "VectorClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Neno\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj",
+      "projectName": "VectorApp",
+      "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj",
+      "packagesPath": "C:\\Users\\Neno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Neno\\source\\repos\\VectorApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Neno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj": {
+              "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
