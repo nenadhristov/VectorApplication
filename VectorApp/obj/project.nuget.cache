@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I1+veJAImJr57XfX5ZnkL7pfmMc1jtE+oRxNH2/LmZwOrkTgiXOefYdN3YnTDC+l/nO2doVCFqrVjftl8Lll1Q==",
+  "dgSpecHash": "sAXMEB6w7oyUZr2YVQrhBkKM/UFUPAW+eAlWUKKjUUcU5kAtVDMhsoh276h+QSdlhGP6uEwq7F2uoiDXWFOTbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Neno\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
   "logs": []
 }

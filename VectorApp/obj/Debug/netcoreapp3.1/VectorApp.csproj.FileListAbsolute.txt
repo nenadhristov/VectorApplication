@@ -1,4 +1,3 @@
-C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.csprojAssemblyReference.cache
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp_MarkupCompile.cache
@@ -20,3 +19,5 @@ C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.csproj.Co
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.dll
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.pdb
 C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.genruntimeconfig.cache
+C:\Users\Neno\source\repos\VectorApp\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\Neno\source\repos\VectorApp\obj\Debug\netcoreapp3.1\VectorApp.csprojAssemblyReference.cache
