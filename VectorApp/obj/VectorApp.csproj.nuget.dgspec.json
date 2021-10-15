@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj": {}
+    "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorApp\\VectorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj": {
+    "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorApp\\VectorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj",
+        "projectUniqueName": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorApp\\VectorApp.csproj",
         "projectName": "VectorApp",
-        "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorApp\\VectorApp.csproj",
+        "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorApp\\VectorApp.csproj",
         "packagesPath": "C:\\Users\\Neno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neno\\source\\repos\\VectorApp\\obj\\",
+        "outputPath": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj": {
-                "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj"
+              "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\VectorClass.csproj": {
+                "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\VectorClass.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj": {
+    "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\VectorClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj",
+        "projectUniqueName": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\VectorClass.csproj",
         "projectName": "VectorClass",
-        "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorClass\\VectorClass.csproj",
+        "projectPath": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\VectorClass.csproj",
         "packagesPath": "C:\\Users\\Neno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neno\\source\\repos\\VectorClass\\obj\\",
+        "outputPath": "C:\\Users\\Neno\\source\\repos\\VectorApplication\\VectorClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neno\\AppData\\Roaming\\NuGet\\NuGet.Config",
